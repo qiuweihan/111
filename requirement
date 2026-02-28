@@ -1,1 +1,8 @@
+streamlit
+transformers
+torch
 
+
+streamlit
+transformers<5.0.0
+torch
