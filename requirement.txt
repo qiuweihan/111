@@ -1,7 +1,4 @@
 streamlit
-transformers==4.44.2
-torch==2.2.2
-torchvision==0.17.2
+transformers<5.0.0
 Pillow
-accelerate
-safetensors
+torch
